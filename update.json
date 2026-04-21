@@ -1,8 +1,8 @@
 {
+  "date": "2026-04-21",
+  "version": "0.9.92",
   "releaseNotes": "Nueva version disponible.",
-  "version": "0.9.9",
   "files": {
-    "win32": "https://github.com/Fport1/modpacklauncher/releases/download/v0.9.9/ModpackLauncher.Setup.0.9.9.exe"
-  },
-  "date": "2026-04-21"
+    "win32": "https://github.com/Fport1/modpacklauncher/releases/download/v0.9.92/ModpackLauncher.Setup.0.9.92.exe"
+  }
 }
