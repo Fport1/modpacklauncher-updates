@@ -1,10 +1,10 @@
 {
-  "version": "1.5.6",
+  "version": "1.6.0",
   "releaseNotes": "Nueva version disponible.",
   "date": "2026-05-14",
   "files": {
-    "win32": "https://github.com/Fport1/modpacklauncher/releases/download/v1.5.6/ModpackLauncher.Setup.1.5.6.exe",
-    "darwin": "https://github.com/Fport1/modpacklauncher/releases/download/v1.5.6/ModpackLauncher-1.5.6-arm64.dmg",
-    "linux": "https://github.com/Fport1/modpacklauncher/releases/download/v1.5.6/ModpackLauncher-1.5.6.AppImage"
+    "win32": "https://github.com/Fport1/modpacklauncher/releases/download/v1.6.0/ModpackLauncher.Setup.1.6.0.exe",
+    "darwin": "https://github.com/Fport1/modpacklauncher/releases/download/v1.6.0/ModpackLauncher-1.6.0-arm64.dmg",
+    "linux": "https://github.com/Fport1/modpacklauncher/releases/download/v1.6.0/ModpackLauncher-1.6.0.AppImage"
   }
 }
