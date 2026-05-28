@@ -1,10 +1,10 @@
 {
-  "version": "1.7.30",
+  "version": "1.7.31",
   "releaseNotes": "Nueva version disponible.",
   "date": "2026-05-28",
   "files": {
-    "win32": "https://github.com/Fport1/modpacklauncher/releases/download/v1.7.30/ModpackLauncher.Setup.1.7.30.exe",
-    "darwin": "https://github.com/Fport1/modpacklauncher/releases/download/v1.7.30/ModpackLauncher-1.7.30-arm64.dmg",
-    "linux": "https://github.com/Fport1/modpacklauncher/releases/download/v1.7.30/ModpackLauncher-1.7.30.AppImage"
+    "win32": "https://github.com/Fport1/modpacklauncher/releases/download/v1.7.31/ModpackLauncher.Setup.1.7.31.exe",
+    "darwin": "https://github.com/Fport1/modpacklauncher/releases/download/v1.7.31/ModpackLauncher-1.7.31-arm64.dmg",
+    "linux": "https://github.com/Fport1/modpacklauncher/releases/download/v1.7.31/ModpackLauncher-1.7.31.AppImage"
   }
 }
