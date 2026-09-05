@@ -1,10 +1,10 @@
 {
-  "version": "1.8.8",
+  "version": "1.8.9",
   "releaseNotes": "Nueva version disponible.",
   "date": "2026-09-05",
   "files": {
-    "win32": "https://github.com/Fport1/modpacklauncher/releases/download/v1.8.8/ModpackLauncher.Setup.1.8.8.exe",
-    "darwin": "https://github.com/Fport1/modpacklauncher/releases/download/v1.8.8/ModpackLauncher-1.8.8-arm64.dmg",
-    "linux": "https://github.com/Fport1/modpacklauncher/releases/download/v1.8.8/ModpackLauncher-1.8.8.AppImage"
+    "win32": "https://github.com/Fport1/modpacklauncher/releases/download/v1.8.9/ModpackLauncher.Setup.1.8.9.exe",
+    "darwin": "https://github.com/Fport1/modpacklauncher/releases/download/v1.8.9/ModpackLauncher-1.8.9-arm64.dmg",
+    "linux": "https://github.com/Fport1/modpacklauncher/releases/download/v1.8.9/ModpackLauncher-1.8.9.AppImage"
   }
 }
