@@ -1,10 +1,10 @@
 {
-  "version": "1.11.5",
+  "version": "1.11.6",
   "releaseNotes": "Nueva version disponible.",
   "date": "2026-10-29",
   "files": {
-    "win32": "https://github.com/Fport1/modpacklauncher-updates/releases/download/v1.11.5/ModpackLauncher-Setup-1.11.5.exe",
-    "darwin": "https://github.com/Fport1/modpacklauncher-updates/releases/download/v1.11.5/ModpackLauncher-1.11.5.dmg",
-    "linux": "https://github.com/Fport1/modpacklauncher-updates/releases/download/v1.11.5/ModpackLauncher-1.11.5.AppImage"
+    "win32": "https://github.com/Fport1/modpacklauncher-updates/releases/download/v1.11.6/ModpackLauncher-Setup-1.11.6.exe",
+    "darwin": "https://github.com/Fport1/modpacklauncher-updates/releases/download/v1.11.6/ModpackLauncher-1.11.6.dmg",
+    "linux": "https://github.com/Fport1/modpacklauncher-updates/releases/download/v1.11.6/ModpackLauncher-1.11.6.AppImage"
   }
 }
